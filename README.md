@@ -8,3 +8,5 @@ Bereket Derese
 ETS0262/17
 BETELHEM SOLOMON
 ETS0286/17
+Betelhem Sefiw
+ETS 0285/17
