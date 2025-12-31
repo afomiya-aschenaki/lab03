@@ -10,3 +10,5 @@ BETELHEM SOLOMON
 ETS0286/17
 Betelhem Sefiw
 ETS 0285/17
+Mading Majok 
+ets 1876/17
